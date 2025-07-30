@@ -11,7 +11,11 @@
   "dependencies": {
     "react": "19.1.0",
     "react-dom": "19.1.0",
+<<<<<<< HEAD
     "next": "15.4.5"
+=======
+    "next": "15.4.4"
+>>>>>>> 85dde0c4380e0bfff46c35a8479d4073ff1d64d1
   },
   "devDependencies": {
     "typescript": "^5",
@@ -21,7 +25,11 @@
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4",
     "eslint": "^9",
+<<<<<<< HEAD
     "eslint-config-next": "15.4.5",
+=======
+    "eslint-config-next": "15.4.4",
+>>>>>>> 85dde0c4380e0bfff46c35a8479d4073ff1d64d1
     "@eslint/eslintrc": "^3"
   }
 }
